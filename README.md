@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, seja bem-vindo(a)! 👋
 
 <!--
 **GuilhermeCastelo/GuilhermeCastelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
