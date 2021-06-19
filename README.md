@@ -4,16 +4,12 @@
 
 <br>
 
+## Conhecimentos:
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCastelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&langs_count=16&theme=dark"/>
+  <img src="https://image.flaticon.com/icons/png/512/145/145807.png" style="width:3px;"> 
+  <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="35" heigth="35"> 
+  <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="35" heigth="35"> 
 </div>
 
- <div> 
-  <a href="https://www.linkedin.com/in/guilherme-sena-castelo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  
+
 ![Snake animation](https://github.com/GuilhermeCastelo/GuilhermeCastelo/blob/output/github-contribution-grid-snake.svg)
-  
- </div>
