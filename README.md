@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a) ! 😄
 
-#### Eu sou Guilherme, estudante de tecnologia da informação. 👨🏻‍💻<br>Atualmente, estudando com ênfase na área de programação web. 🖥<br>Aprimorando os conhecimentos em HTML, CSS, JavaScript, PHP, MySQL, POO, GIT e GitHub. ⌨
+#### Eu sou Guilherme, estudante de tecnologia da informação. 👨🏻‍💻
 
 <br>
 
