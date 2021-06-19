@@ -4,6 +4,12 @@
 
 <br>
 
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCastelo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&layout=compact&locale=pt-br&border_radius=6">&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&langs_count=16&theme=react&hide_border=true&locale=pt-br&border_radius=5">
+</div>
+
+
 ## Conhecimentos:
 <div>
   <img src="https://image.flaticon.com/icons/png/512/888/888859.png" align="center" width="35" heigth="35">&nbsp;&nbsp;
