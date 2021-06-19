@@ -10,7 +10,7 @@
 </div>
 
 
-## Conhecimentos:
+### Meus conhecimentos:
 <div>
   <img src="https://image.flaticon.com/icons/png/512/888/888859.png" align="center" width="35" heigth="35">&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/888/888847.png" align="center" width="35" heigth="35">&nbsp;&nbsp;
@@ -19,7 +19,7 @@
   <img src="https://image.flaticon.com/icons/png/512/919/919836.png" align="center" width="35" heigth="35">&nbsp;&nbsp;
 </div>
 
-## Entre em contato:
+### Entre em contato:
 <div>
   <a href="https://sitetestegsc.000webhostapp.com/" target="_blank">
     <img src="https://image.flaticon.com/icons/png/512/841/841364.png" align="center" width="35" heigth="35">&nbsp;&nbsp;&nbsp;
@@ -35,8 +35,8 @@
   </a>
 </div>
 
-<div align="center">
+<!--<div align="center">
   
   ![Snake animation](https://github.com/GuilhermeCastelo/GuilhermeCastelo/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+</div>-->
