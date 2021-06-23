@@ -4,8 +4,8 @@
 
 <br>
 
-<div>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&langs_count=16&theme=react&hide_border=true&locale=pt-br&border_radius=5">
+<div align="center">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&langs_count=16&theme=react&hide_border=true&locale=pt-br&border_radius=5">
 </div>
 
 
