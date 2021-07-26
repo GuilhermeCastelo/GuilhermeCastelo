@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a) ! 😄
 
-#### Eu sou Guilherme, estudante de tecnologia da informação. 👨🏻‍💻<br>Atualmente, estudando com ênfase na área de programação web. 🖥
+<p>Eu sou Guilherme, estudante de tecnologia da informação. 👨🏻‍💻<br>Atualmente, estudando com ênfase na área de programação web. 🖥</p>
 
 <br>
 
