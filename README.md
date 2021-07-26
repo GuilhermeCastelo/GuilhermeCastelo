@@ -1,8 +1,7 @@
 ## Olá, seja bem-vindo(a) ! 😄
 
 <p>
-  Olá! Eu sou Guilherme Sena Castelo, técnico em Desenvolvimento de Sistemas pela ETEC. 📚<br>
-  Sou um constante estudante de tecnologia da informação. 👨🏻‍💻<br>
+  Olá! Eu sou Guilherme S. Castelo, estudante de tecnologia da informação. 📚<br>
   Atualmente, estudando com ênfase na área de desenvolvimento web. 🖥<br>
   Aprimorando os conhecimentos em HTML, CSS, JavaScript, PHP, SQL, GIT e POO. 💻
 </p>
