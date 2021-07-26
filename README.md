@@ -1,6 +1,11 @@
 ## Olá, seja bem-vindo(a) ! 😄
 
-<p>Eu sou Guilherme, estudante de tecnologia da informação. 👨🏻‍💻<br>Atualmente, estudando com ênfase na área de programação web. 🖥</p>
+<p>
+  Olá! Eu sou Guilherme Sena Castelo, técnico em Desenvolvimento de Sistemas pela ETEC. 📚<br>
+  Sou um constante estudante de tecnologia da informação. 👨🏻‍💻<br>
+  Atualmente, estudando com ênfase na área de desenvolvimento web. 🖥<br>
+  Aprimorando os conhecimentos em HTML, CSS, JavaScript, PHP, SQL, GIT e POO. 💻
+</p>
 
 <br>
 
