@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo(a) ! 😄
+## Olá, seja bem-vindo(a) 😄
 
 Olá! Eu sou **Guilherme S. Castelo** , estudante de **tecnologia da informação**. 📚 <br>
 Atualmente, estudando com ênfase na área de **desenvolvimento web**. 🖥 <br>
@@ -6,8 +6,7 @@ Aprimorando os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT e POO. 
 
 <br>
 
-![Linguagens que estão aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&langs_count=16&theme=react&locale=pt-br&border_radius=5&hide_border=true&card_width=500)
-
+![Linguagens que estão por aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&langs_count=16&theme=react&locale=pt-br&border_radius=5&hide_border=true&card_width=500)
 
 ### Meus conhecimentos:
 <div>
@@ -33,11 +32,3 @@ Aprimorando os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT e POO. 
     <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" align="center" width="35" heigth="35">
   </a>
 </div>
-
-```html
-<p>Hello, world! Welcome</p>
-```
-
-```javascript
-alert("Hello, world! Welcome")
-```
