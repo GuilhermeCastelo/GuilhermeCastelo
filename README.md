@@ -1,16 +1,12 @@
 ## Olá, seja bem-vindo(a) ! 😄
 
-<p>
-  Olá! Eu sou Guilherme S. Castelo, estudante de tecnologia da informação. 📚<br>
-  Atualmente, estudando com ênfase na área de desenvolvimento web. 🖥<br>
-  Aprimorando os conhecimentos em HTML, CSS, JavaScript, PHP, SQL, GIT e POO. 💻
-</p>
+Olá! Eu sou **Guilherme S. Castelo** , estudante de **tecnologia da informação**. 📚 <br>
+Atualmente, estudando com ênfase na área de **desenvolvimento web**. 🖥 <br>
+Aprimorando os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT e POO. 💻
 
 <br>
 
-<div>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&langs_count=16&theme=react&locale=pt-br&border_radius=5&hide_border=true">
-</div>
+![Linguagens que estão aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&langs_count=16&theme=react&locale=pt-br&border_radius=5&hide_border=true&card_width=500)
 
 
 ### Meus conhecimentos:
@@ -38,8 +34,10 @@
   </a>
 </div>
 
-<!--<div align="center">
-  
-  ![Snake animation](https://github.com/GuilhermeCastelo/GuilhermeCastelo/blob/output/github-contribution-grid-snake.svg)
-  
-</div> -->
+```html
+<p>Hello, world! Welcome</p>
+```
+
+```javascript
+alert("Hello, world! Welcome")
+```
