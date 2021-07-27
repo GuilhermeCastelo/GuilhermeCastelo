@@ -6,7 +6,7 @@ Aprimorando os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT e POO. 
 
 <br>
 
-![Linguagens que estão por aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&langs_count=16&theme=react&locale=pt-br&border_radius=5&hide_border=true&card_width=500)
+![Linguagens que estão por aqui](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&langs_count=16&theme=react&locale=pt-br&border_radius=5&hide_border=true&card_width=450)
 
 ### Meus conhecimentos:
 <div>
