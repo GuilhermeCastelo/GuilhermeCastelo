@@ -20,7 +20,7 @@ Aprimorando os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT e POO. 
 ### Entre em contato:
 <div>
   <a href="https://sitetestegsc.000webhostapp.com/" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/841/841364.png" align="center" width="35" heigth="35">
+    <img src="https://image.flaticon.com/icons/png/512/841/841364.png" target="_blank" align="center" width="35" heigth="35">
   </a>
   <a href="https://www.linkedin.com/in/guilherme-sena-castelo/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://image.flaticon.com/icons/png/512/145/145807.png" align="center" width="35" heigth="35">
