@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo(a) ! 😄
+## Olá, é um prazer receber você por aqui! 😄
 
 Eu sou **Guilherme S. Castelo**, estudante de **tecnologia da informação**. 📚
 Atualmente, estudando com ênfase na área de **desenvolvimento web**. 🖥 
