@@ -1,6 +1,6 @@
 ## Olá, é um prazer receber você por aqui! 😄
 
-Eu sou **Guilherme S. Castelo**, estudante de **tecnologia da informação**. 📚<br>
+Eu sou **Guilherme S. Castelo**, um constante estudante de **tecnologia da informação**. 📚<br>
 Atualmente, estudando com ênfase na área de **desenvolvimento web** (tanto **front-end** com JavaScript como **back-end** com PHP). 🖥 <br>
 Aprimorando os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT, POO e MVC. 💻
 
