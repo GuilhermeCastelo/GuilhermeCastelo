@@ -36,16 +36,16 @@ Aprimorando os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT, POO e 
   <a href="https://sitetestegsc.000webhostapp.com/">
     <img src="https://image.flaticon.com/icons/png/512/841/841364.png" align="center" width="35" heigth="35">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=guilherme.senacastelo@gmail.com&su=Entrando%20em%20contato&body=Sua%20mensagem%20...&tf=cm">
+    <img src="https://image.flaticon.com/icons/png/512/732/732200.png" align="center" width="35" heigth="35">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/guilherme-sena-castelo/">
     <img src="https://image.flaticon.com/icons/png/512/145/145807.png" align="center" width="35" heigth="35">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:guilherme.senacastelo@gmail.com">
-    <img src="https://image.flaticon.com/icons/png/512/732/732200.png" align="center" width="35" heigth="35">
+  <a href="https://api.whatsapp.com/send?phone=5511991145594&text=Ol%C3%A1,%20Guilherme.%20Tudo%20bem">
+    <img src="https://image.flaticon.com/icons/png/512/733/733585.png" align="center" width="35" heigth="35">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/guilherme_sena_castelo/">
     <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" align="center" width="35" heigth="35">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=5511991145594&text=Ol%C3%A1,%20Guilherme.%20Tudo%20bem">
-    <img src="https://image.flaticon.com/icons/png/512/733/733585.png" align="center" width="35" heigth="35">
   </a>
 </div>
