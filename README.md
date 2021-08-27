@@ -31,7 +31,7 @@ Aprimorando diariamente os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL,
 
 <hr>
 
-### Quer entrar em contato comigo?
+### Entre em contato comigo:
 <div>
   <a href="https://sitetestegsc.000webhostapp.com/">
     <img src="https://image.flaticon.com/icons/png/512/841/841364.png" align="center" width="35" heigth="35">
