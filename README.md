@@ -45,4 +45,7 @@ Aprimorando os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT, POO e 
   <a href="https://www.instagram.com/guilherme_sena_castelo/">
     <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" align="center" width="35" heigth="35">
   </a>
+  <a href="https://api.whatsapp.com/send?phone=5511991145594&text=Ol%C3%A1,%20Guilherme.%20Tudo%20bem">
+    <img src="https://image.flaticon.com/icons/png/512/733/733585.png" align="center" width="35" heigth="35">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
