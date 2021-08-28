@@ -15,7 +15,7 @@ Aprimorando diariamente os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL,
 
 <hr>
 
-### Linguagens, ferramentas e tecnologias que utilizo:
+### Linguagens, softwares, ferramentas e tecnologias que utilizo:
 <div>
   <img src="https://image.flaticon.com/icons/png/512/888/888859.png" width="35" heigth="35" title="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://image.flaticon.com/icons/png/512/888/888847.png" width="35" heigth="35" title="CSS3">&nbsp;&nbsp;&nbsp;&nbsp;
