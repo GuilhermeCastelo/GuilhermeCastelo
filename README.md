@@ -8,9 +8,9 @@ Aprimorando diariamente os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL,
 
 ### Informações do GitHub:
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&theme=react&locale=pt-br&border_radius=5&hide_border=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCastelo&layout=compact&theme=react&locale=pt-br&border_radius=5&hide_border=true">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCastelo&layout=compact&theme=react&locale=pt-br&border_radius=8&hide_border=true">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCastelo&layout=compact&theme=react&locale=pt-br&border_radius=8&hide_border=true">
 </div>
 
 <hr>
