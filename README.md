@@ -1,8 +1,9 @@
 ## Olá, mundo! É um prazer receber você por aqui! 😄
 
 Eu sou **Guilherme**, um constante estudante de **tecnologia da informação**. 📚<br>
-Atualmente, **estudando** com ênfase na área de **desenvolvimento web** (tanto **front-end** com JavaScript, como **back-end** com PHP). 🖥 <br>
+Atualmente, **estudando** com ênfase na área de **desenvolvimento web** fullstack. 🖥 <br>
 Aprimorando diariamente os **conhecimentos** em HTML, CSS, JavaScript, PHP, SQL, GIT, POO e MVC. 💻
+Quer **entrar em contato** comigo? [Clique aqui](https://guilhermecastelo.github.io/)
 
 <hr>
 
