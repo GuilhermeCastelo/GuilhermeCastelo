@@ -26,6 +26,6 @@ Quer **entrar em contato** comigo? [Clique aqui](https://guilhermecastelo.github
   <img src="icons/bootstrap.png" width="35" heigth="35" title="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="icons/vscode.png" width="35" heigth="35" title="Visual Studio Code">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="icons/git.png" width="35" heigth="35" title="GIT">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="icons/gimp.png" width="35" heigth="35" title="Editor de imagens GIMP">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="icons/gimp.png" width="35" heigth="35" title="GIMP">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="icons/windows.png" width="35" heigth="35" title="Windows">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
