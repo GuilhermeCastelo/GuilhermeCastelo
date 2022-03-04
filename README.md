@@ -1,4 +1,4 @@
-## Olá, mundo! É um prazer receber você por aqui! 😄
+## &lt;p&gt;Hello, world!&lt;/p&gt; É um prazer receber você por aqui! 😄
 
 Eu sou **Guilherme**, um constante estudante de **tecnologia da informação**. 📚<br>
 Atualmente, **estudando** com ênfase na área de **desenvolvimento web** fullstack. 🖥<br>
