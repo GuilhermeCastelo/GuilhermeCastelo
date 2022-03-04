@@ -23,7 +23,7 @@ Quer **entrar em contato** comigo? [Clique aqui](https://guilhermecastelo.github
   <img src="icons/js.png" width="35" height="35" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="icons/php.png" width="35" height="35" title="PHP">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="icons/mysql.png" width="35" height="35" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="icons/bootstrap.png" width="35" height="35" title="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="icons/bootstrap.png" width="35" height="55" title="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="icons/vscode.png" width="35" height="35" title="Visual Studio Code">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="icons/git.png" width="35" height="35" title="GIT">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="icons/gimp.png" width="35" height="35" title="GIMP">&nbsp;&nbsp;&nbsp;&nbsp;
