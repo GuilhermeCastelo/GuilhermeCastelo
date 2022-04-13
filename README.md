@@ -16,7 +16,7 @@ Quer **entrar em contato** comigo? [Clique aqui](https://guilhermecastelo.github
 
 <hr>
 
-### Linguagens, softwares, ferramentas e tecnologias que utilizo:
+### Linguagens, softwares, ferramentas e tecnologias que domino:
 <div>
   <img src="icons/html.png" width="35" height="35" title="HTML5">&nbsp;&nbsp;&nbsp;
   <img src="icons/css.png" width="35" height="35" title="CSS3">&nbsp;&nbsp;&nbsp;
@@ -26,6 +26,6 @@ Quer **entrar em contato** comigo? [Clique aqui](https://guilhermecastelo.github
   <img src="icons/bootstrap.png" width="42" height="35" title="Bootstrap">&nbsp;&nbsp;&nbsp;
   <img src="icons/vscode.png" width="35" height="35" title="Visual Studio Code">&nbsp;&nbsp;&nbsp;
   <img src="icons/git.png" width="35" height="35" title="GIT">&nbsp;&nbsp;&nbsp;
-  <img src="icons/gimp.png" width="35" height="35" title="GIMP">&nbsp;&nbsp;&nbsp;
+  <img src="icons/gimp.png" width="40" height="35" title="GIMP">&nbsp;&nbsp;&nbsp;
   <img src="icons/windows.png" width="35" height="35" title="Windows">&nbsp;&nbsp;&nbsp;
 </div>
