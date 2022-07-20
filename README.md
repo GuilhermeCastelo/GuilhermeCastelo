@@ -1,9 +1,11 @@
-## &lt;p&gt;Hello, world!&lt;/p&gt; É um prazer receber você por aqui! 😄
+# &lt;p&gt;Hello, world!&lt;/p&gt; É um prazer receber você por aqui! 😄
 
 Eu sou **Guilherme**, um constante estudante de **tecnologia da informação**. 📚<br>
 Atualmente, meus **estudos** têm ênfase na área de **desenvolvimento web** fullstack. 🖥<br>
-Tenho aprimorado diariamente os meus **conhecimentos** em HTML, CSS, JavaScript, PHP, MySQL, GIT, POO e MVC. 💻<br><br>
-Quer **entrar em contato** comigo? [Clique aqui](https://guilhermecastelo.github.io/)
+Tenho aprimorado diariamente os meus **conhecimentos** em HTML, CSS, JavaScript, PHP, MySQL, GIT, POO e MVC. 💻<br>
+
+### Quer **entrar em contato** comigo? [Clique aqui](https://guilhermecastelo.github.io/)
+
 
 <hr>
 
